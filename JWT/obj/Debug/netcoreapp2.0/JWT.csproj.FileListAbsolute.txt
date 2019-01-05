@@ -1,0 +1,11 @@
+C:\Users\Barreto\Desktop\Cursos\JWT\JWT\bin\Debug\netcoreapp2.0\JWT.deps.json
+C:\Users\Barreto\Desktop\Cursos\JWT\JWT\bin\Debug\netcoreapp2.0\JWT.runtimeconfig.json
+C:\Users\Barreto\Desktop\Cursos\JWT\JWT\bin\Debug\netcoreapp2.0\JWT.runtimeconfig.dev.json
+C:\Users\Barreto\Desktop\Cursos\JWT\JWT\bin\Debug\netcoreapp2.0\JWT.dll
+C:\Users\Barreto\Desktop\Cursos\JWT\JWT\bin\Debug\netcoreapp2.0\JWT.pdb
+C:\Users\Barreto\Desktop\Cursos\JWT\JWT\obj\Debug\netcoreapp2.0\JWT.csprojResolveAssemblyReference.cache
+C:\Users\Barreto\Desktop\Cursos\JWT\JWT\obj\Debug\netcoreapp2.0\JWT.csproj.CoreCompileInputs.cache
+C:\Users\Barreto\Desktop\Cursos\JWT\JWT\obj\Debug\netcoreapp2.0\JWT.AssemblyInfoInputs.cache
+C:\Users\Barreto\Desktop\Cursos\JWT\JWT\obj\Debug\netcoreapp2.0\JWT.AssemblyInfo.cs
+C:\Users\Barreto\Desktop\Cursos\JWT\JWT\obj\Debug\netcoreapp2.0\JWT.dll
+C:\Users\Barreto\Desktop\Cursos\JWT\JWT\obj\Debug\netcoreapp2.0\JWT.pdb
